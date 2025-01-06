@@ -137,9 +137,7 @@ select, input {
     transition: background 0.3s;
 }
 
-    .btn:hover {
-        background-color: #D9D9D9;
-    }
+   
 
 /* Transaction Table */
 .add-transaction-section {
