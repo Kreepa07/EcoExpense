@@ -3,7 +3,6 @@ using System.Text;
 using System.Text.Json;
 using EcoExpense.Models;
 
-
 public class UserService
 {
     private static readonly string DesktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
